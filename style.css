@@ -6,3 +6,6 @@ body{
 p{
     font-family: fantasy;
 }
+img{
+    border:1pt solid #707070;
+}
